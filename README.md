@@ -4,7 +4,7 @@
 Analyzed Amazon bestseller data to explore how popularity (number of reviews) and price impact user ratings.
 
 ## Tools Used
-- Excel (Pivot Tables, Solver)
+- Excel (Pivot Tables)
 - Data Visualization
 
 ## Key Questions
