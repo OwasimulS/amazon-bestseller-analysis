@@ -33,8 +33,17 @@ This project was completed using two different methods:
 - Used pivot tables and dashboards to explore relationships
 - Focused on quick data exploration and visualization
 
+<img width="945" height="713" alt="image" src="https://github.com/user-attachments/assets/34a6b499-241f-4335-b3cf-970a52f63848" />
+
+
 ### 2. Python Analysis
 
 - Used Pandas for data manipulation
 - Used Matplotlib for visualization
 - Enabled more flexible and scalable analysis
+
+<img width="1000" height="600" alt="reviews_vs_rating" src="https://github.com/user-attachments/assets/3d3a1641-6187-408b-9316-4562771c0184" />
+
+<img width="1000" height="600" alt="price_vs_rating" src="https://github.com/user-attachments/assets/f6519d19-1afb-44d3-93dc-5e79d3589bb9" />
+
+
