@@ -16,7 +16,7 @@ This project analyzes Amazon bestselling books to explore whether the number of 
 
 ## Conclusion
 
-Overall, neither popularity nor price strongly determines user ratings. Instead, ratings remain consistently high across most categories, suggesting that other factors—such as content quality or genre may play a more influential role in determining user satisfaction. This analysis shows beginner authors that while popularity and price are important, they are not a major determinant of a book's success.
+Overall, neither popularity nor price strongly determines user ratings. Instead, ratings remain consistently high across most categories, suggesting that other factors, such as content quality or genre may play a more influential role in determining user satisfaction. This analysis shows beginner authors that while popularity and price are important, they are not a major determinant of a book's success.
 
 ## Tools Used
 
