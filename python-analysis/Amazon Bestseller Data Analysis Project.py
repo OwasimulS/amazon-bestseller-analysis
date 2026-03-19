@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv("bestsellers with categories.csv") #read the csv file
+df = pd.read_csv("data/bestsellers with categories.csv") #read the csv file
 df["Review_Range"] = pd.cut(df["Reviews"], bins=[0,10000,20000,30000, 40000, 50000, 60000, 70000, 80000, 90000]) #create a new column with the review range, split into 3 bnsi
 result = df.groupby("Review_Range")["User Rating"].mean().reset_index() #group by the review range and calculate the mean of the user rating
 result = result.sort_values("Review_Range") #sort the result by the review range
